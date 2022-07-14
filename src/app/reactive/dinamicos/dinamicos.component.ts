@@ -54,6 +54,6 @@ export class DinamicosComponent{
     if(this.miFormulario.invalid) return;
 
 
-    console.log(this.miFormulario.value);
+    // console.log(this.miFormulario.value);
   }
 }
